@@ -1,1 +1,14 @@
+# 个人基础信息（替换成你的内容）
+name: Frank
+title: Data Hunter/淘宝者  # 示例：Python学习者 | 大学生
+github_username: yufuxiaozi  # 示例：xiaoming
+description: 风雪夜归人  # 示例：专注于编程学习的新手
 
+# 核心：指定 GitHub 官方主题
+theme: jekyll-theme-minimal  # 极简官方主题，也可替换为：
+                              # jekyll-theme-cayman（清新风格）
+                              # jekyll-theme-primer（GitHub 原生风格）
+
+# 可选配置（优化体验）
+lang: zh-CN  # 网页语言设为中文
+show_downloads: false  # 隐藏无用的下载按钮
